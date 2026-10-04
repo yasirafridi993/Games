@@ -1,0 +1,23 @@
+{
+  "completed_races": 5,
+  "tracks": {
+    "forest_challenge": {
+      "completed_races": 1,
+      "wins": 1,
+      "best_time": 104.825,
+      "best_lap": 50.442
+    },
+    "harbor_run": {
+      "completed_races": 3,
+      "wins": 1,
+      "best_time": 38.558,
+      "best_lap": 38.558
+    },
+    "coastal_highway": {
+      "completed_races": 1,
+      "wins": 0,
+      "best_time": 31.517,
+      "best_lap": 31.517
+    }
+  }
+}
